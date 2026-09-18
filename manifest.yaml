@@ -1,0 +1,43 @@
+specVersion: "1"
+id: lax-894236
+leanVersion: "v4.33.0"
+mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
+title: "Smooth hypersurfaces: the Euler characteristic as a binomial tail, its parity, the Kodaira trichotomy, and the Noether–Lefschetz window as the sequence A005581"
+authors:
+  - name: Joel Cruz Cabrera
+    orcid: "0009-0005-4048-1237"
+    github: joelcanary
+bibEntries:
+  - |
+    @misc{cruzcabrera2026noetherlefschetz,
+      author = {Cruz Cabrera, Joel},
+      title = {The Noether--Lefschetz window of surfaces in P^3 is the sequence A005581},
+      year = {2026},
+      doi = {10.5281/zenodo.21535860},
+      howpublished = {Zenodo}
+    }
+  - |
+    @misc{oeisA005581,
+      author = {{OEIS Foundation Inc.}},
+      title = {Entry A005581 in The On-Line Encyclopedia of Integer Sequences},
+      year = {2026},
+      howpublished = {https://oeis.org/A005581}
+    }
+  - |
+    @article{griffiths1969,
+      author = {Griffiths, Phillip A.},
+      title = {On the periods of certain rational integrals: I, II},
+      journal = {Annals of Mathematics},
+      volume = {90},
+      year = {1969},
+      pages = {460--541}
+    }
+  - |
+    @article{green1988,
+      author = {Green, Mark L.},
+      title = {A new proof of the explicit Noether--Lefschetz theorem},
+      journal = {Journal of Differential Geometry},
+      volume = {27},
+      year = {1988},
+      pages = {155--159}
+    }
