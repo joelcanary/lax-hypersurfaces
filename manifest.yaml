@@ -2,7 +2,9 @@ specVersion: "1"
 id: lax-894236
 leanVersion: "v4.33.0"
 mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
-title: "Smooth hypersurfaces: the Euler characteristic as a binomial tail, its parity, the Kodaira trichotomy, and the Noether–Lefschetz window as the sequence A005581"
+title: "Smooth hypersurfaces: the Euler characteristic as a binomial tail, its
+  parity, the Kodaira trichotomy, and the Noether–Lefschetz window as the
+  sequence A005581"
 authors:
   - name: Joel Cruz Cabrera
     orcid: "0009-0005-4048-1237"
@@ -41,3 +43,6 @@ bibEntries:
       year = {1988},
       pages = {155--159}
     }
+issue:
+  repositoryId: 1320232165
+  number: 130
