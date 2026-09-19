@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Cite the Lax Lean Archive record, which is permanent: lax-894236."
+type: dataset
+title: "Smooth hypersurfaces: the Euler characteristic as a binomial tail, its parity, the Kodaira trichotomy, and the Noether–Lefschetz window as the sequence A005581"
+authors:
+  - family-names: Cruz Cabrera
+    given-names: Joel
+    orcid: https://orcid.org/0009-0005-4048-1237
+identifiers:
+  - type: url
+    value: https://laxarchive.org/lax-894236/
+    description: Lax Lean Archive record (registered 2026-09-18; statements and kernel-checked proofs)
+repository-code: https://github.com/joelcanary/lax-hypersurfaces
+url: https://laxarchive.org/lax-894236/
+license: Apache-2.0
+date-released: 2026-09-18
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal proof
+  - Lax Lean Archive
