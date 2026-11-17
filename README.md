@@ -62,6 +62,15 @@ The pins are in `manifest.yaml`; the archive's build of this commit
 - Preprint: *The Noether–Lefschetz window of surfaces in P^3 is the sequence A005581*, doi:10.5281/zenodo.21535860.
 - The window recomputed live in exact integers: https://kodamaseclabs.com/publications
 
+## Further references
+
+These are references for the reader of this repository. The record's own text and bibliography (`abstract.md`, `manifest.yaml`) are fixed by the registration; a correction there would be a new record that supersedes this one.
+
+- F. Hirzebruch, *Topological Methods in Algebraic Geometry*, 3rd ed., Grundlehren 131, Springer (1966). [doi:10.1007/978-3-642-62018-8](https://doi.org/10.1007/978-3-642-62018-8)
+- P. A. Griffiths, *On the periods of certain rational integrals I, II*, Ann. of Math. 90 (1969) 460–495, 496–541. [doi:10.2307/1970746](https://doi.org/10.2307/1970746), [doi:10.2307/1970747](https://doi.org/10.2307/1970747)
+- M. L. Green, *A new proof of the explicit Noether–Lefschetz theorem*, J. Differential Geom. 27 (1988) 155–159. [doi:10.4310/jdg/1214441655](https://doi.org/10.4310/jdg/1214441655)
+- C. Voisin, *Une précision concernant le théorème de Noether*, Math. Ann. 280 (1988) 605–611 — the "Voisin" half of the Green–Voisin bound named above. [doi:10.1007/BF01450079](https://doi.org/10.1007/BF01450079)
+
 ## Use of AI
 
 An AI tool (an agent running on the author's machine) wrote the Lean under the
